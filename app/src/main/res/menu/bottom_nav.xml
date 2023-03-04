@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--bottom nav itemlatı oluşturuldu-->
+    <item
+        android:id="@+id/games"
+        android:title="@string/games"
+        android:icon="@drawable/games"/>
+    <item
+        android:id="@+id/favourites"
+        android:title="@string/favourites"
+        android:icon="@drawable/favourites"/>
+</menu>
